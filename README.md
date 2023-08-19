@@ -1,2 +1,5 @@
-# mnist-scratch
-MNIST: Completely from scratch, only using NumPy
+# MNIST Scratch
+
+## About
+
+MNIST: Completely from scratch, only using Torch primitives
